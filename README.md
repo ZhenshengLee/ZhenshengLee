@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 
 ### Enjoy my projects 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ZhenshengLee&theme=onedark)
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenshengLee&show_icons=true&theme=onedark&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ZhenshengLee&theme=default)
