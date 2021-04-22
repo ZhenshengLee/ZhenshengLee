@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 ### Enjoy my projects 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=ZhenshengLee.ZhenshengLee)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ZhenshengLee&theme=default)
