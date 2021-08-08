@@ -13,3 +13,10 @@
 
 - **M.Eng.** in Mechatronic Engineering, [Central South University](https://cmee.csu.edu.cn/english/), China [2014-2017]
 
+### Experience
+
+- **Software Engineer** in Linux based 5G network device system, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
+
+### Certification
+
+- **PMI-PMP**
