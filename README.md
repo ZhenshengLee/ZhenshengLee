@@ -19,4 +19,4 @@
 
 ### Certification
 
-- **PMI-PMP**
+- **Project Management Professional (PMP)**, [Project Management Institute](https://www.pmi.org/), [201903-]
