@@ -11,13 +11,13 @@
 
 ### Projects
 
-In the field of ROS/ROS2 based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware), I am the owner/contributor of the following:
+#### ROS based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware)
 
 - [**rmw_iceoryx**](https://github.com/ros2/rmw_iceoryx)
 - [**ros2_shm_msgs**](https://github.com/ZhenshengLee/ros2_shm_msgs)
 - [**iceoryx-rs-c**](https://github.com/ZhenshengLee/iceoryx-rs-c)
 
-In the field of GPU based System [**Hardware Acceleration**](https://en.wikipedia.org/wiki/Hardware_acceleration), I am the owner/contributor of the following:
+#### GPU based [**Hardware Acceleration**](https://en.wikipedia.org/wiki/Hardware_acceleration)
 
 - [**perception_cupoch**](https://github.com/ZhenshengLee/perception_cupoch)
 - [**cupoch**](https://github.com/neka-nat/cupoch)
