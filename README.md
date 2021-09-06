@@ -9,7 +9,7 @@
 
 --------
 
-### Projects
+### Contributions
 
 #### ROS based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware)
 
@@ -30,8 +30,9 @@
 
 ### Experience
 
-- **Software Engineer** in Linux based 5G network device system, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
+- **Software Engineer** in Linux based 5G packet transport network system, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
 
 ### Certification
 
 - **Project Management Professional (PMP)**, [Project Management Institute](https://www.pmi.org/), [2019-]
+- **System Architect**,  Qualification Certificate of Computer and Software Technology Proficiency, [MIIT](https://www.miiteec.org.cn/), China[2019-]
