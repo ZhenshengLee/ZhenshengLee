@@ -20,6 +20,7 @@
 #### GPU based [**Hardware Acceleration**](https://en.wikipedia.org/wiki/Hardware_acceleration)
 
 - [**perception_cupoch**](https://github.com/ZhenshengLee/perception_cupoch)
+- [**perception_cuda_pcl**](https://github.com/ZhenshengLee/perception_cuda_pcl)
 - [**cupoch**](https://github.com/neka-nat/cupoch)
 
 --------
