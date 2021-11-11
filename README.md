@@ -31,7 +31,7 @@
 
 ### Experience
 
-- **Software Engineer** in Linux based 5G packet transport network system, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
+- **Software Engineer** in Linux based 5G fronthaul switch system, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
 
 ### Certification
 
