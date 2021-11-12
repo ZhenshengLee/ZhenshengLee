@@ -15,13 +15,16 @@
 
 - [**rmw_iceoryx**](https://github.com/ros2/rmw_iceoryx)
 - [**ros2_shm_msgs**](https://github.com/ZhenshengLee/ros2_shm_msgs)
-- [**iceoryx-rs-c**](https://github.com/ZhenshengLee/iceoryx-rs-c)
 
 #### GPU based [**Hardware Acceleration**](https://en.wikipedia.org/wiki/Hardware_acceleration)
 
 - [**perception_cupoch**](https://github.com/ZhenshengLee/perception_cupoch)
 - [**perception_cuda_pcl**](https://github.com/ZhenshengLee/perception_cuda_pcl)
 - [**cupoch**](https://github.com/neka-nat/cupoch)
+
+#### [**Rust**](https://en.wikipedia.org/wiki/Rust_(programming_language)) programming
+
+- [**iceoryx-rust**](https://github.com/ZhenshengLee/iceoryx-rust)
 
 --------
 
