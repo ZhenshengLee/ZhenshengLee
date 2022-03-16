@@ -8,7 +8,7 @@
 
 --------
 
-### Contributions
+<details><summary>Contributions</summary><div>
 
 #### ROS based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware)
 
@@ -24,18 +24,24 @@
 #### [**Rust**](https://en.wikipedia.org/wiki/Rust_(programming_language)) programming
 
 - [**iceoryx-rust**](https://github.com/ZhenshengLee/iceoryx-rust)
+  
+</div></details>
 
---------
-
-### Education
+<details><summary>Education</summary><div>
 
 - **M.Eng.** in Mechatronic Engineering, [Central South University](https://cmee.csu.edu.cn/english/), China [2014-2017]
 
-### Experience
+</div></details>
+
+<details><summary>Experience</summary><div>
 
 - **Software Engineer** in Linux based 5G fronthaul switch system, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
 
-### Certification
+</div></details>
+
+<details><summary>Certification</summary><div>
 
 - **Project Management Professional (PMP)**, [Project Management Institute](https://www.pmi.org/), [2019-]
 - **System Architect**,  Qualification Certificate of Computer and Software Technology Proficiency, [MIIT](https://www.miiteec.org.cn/), China[2019-]
+
+</div></details>
