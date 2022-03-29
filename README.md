@@ -14,7 +14,8 @@
 
 - [**rmw_iceoryx**](https://github.com/ros2/rmw_iceoryx)
 - [**ros2_shm_msgs**](https://github.com/ZhenshengLee/ros2_shm_msgs)
-
+- [**micro-ROS_freertos_apps**](https://github.com/micro-ROS/freertos_apps)
+  
 #### GPU based [**Hardware Acceleration**](https://en.wikipedia.org/wiki/Hardware_acceleration)
 
 - [**perception_cupoch**](https://github.com/ZhenshengLee/perception_cupoch)
@@ -29,19 +30,20 @@
 
 <details><summary>Education</summary><div>
 
-- **M.Eng.** in Mechatronic Engineering, [Central South University](https://cmee.csu.edu.cn/english/), China [2014-2017]
+- **M.Eng.** in [Mechatronic](https://en.wikipedia.org/wiki/Mechatronics) Engineering, [Central South University](https://cmee.csu.edu.cn/english/), China [2014-2017]
 
 </div></details>
 
 <details><summary>Experience</summary><div>
 
-- **Software Engineer** in Linux based 5G fronthaul switch system, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
+- **Software Engineer** in [robotics middleware](https://en.wikipedia.org/wiki/Robotics_middleware) for [LSAV](https://golden.com/wiki/Low-Speed_Autonomy-8AP89VX) system, [BZL Corporation](https://www.bzlrobot.com/), China [2019-]
+- **Software Engineer** in network for 5G [fronthaul](https://en.wikipedia.org/wiki/Fronthaul) network switcher system, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
 
 </div></details>
 
 <details><summary>Certification</summary><div>
 
-- **Project Management Professional (PMP)**, [Project Management Institute](https://www.pmi.org/), [2019-]
-- **System Architect**,  Qualification Certificate of Computer and Software Technology Proficiency, [MIIT](https://www.miiteec.org.cn/), China[2019-]
+- **[Project Management Professional](https://en.wikipedia.org/wiki/Project_Management_Professional) (PMI-PMP)**, [Project Management Institute](https://www.pmi.org/), [2019-]
+- **[System Architect](https://en.wikipedia.org/wiki/Systems_architect)**,  Qualification Certificate of Computer and Software Technology Proficiency, [MIIT](https://www.miiteec.org.cn/), China[2019-]
 
 </div></details>
