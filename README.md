@@ -30,14 +30,14 @@
 
 <details><summary>Education</summary><div>
 
-- **M.Eng.** in [Mechatronic](https://en.wikipedia.org/wiki/Mechatronics) Engineering, [Central South University](https://cmee.csu.edu.cn/english/), China [2014-2017]
+- **Master's degree** in [Mechatronics Engineering](https://en.wikipedia.org/wiki/Mechatronics), [Central South University](https://cmee.csu.edu.cn/english/), China [2014-2017]
 
 </div></details>
 
 <details><summary>Experience</summary><div>
 
 - **Software Engineer** in [robotics middleware](https://en.wikipedia.org/wiki/Robotics_middleware) for [LSAV](https://golden.com/wiki/Low-Speed_Autonomy-8AP89VX) system, [BZL Corporation](https://www.bzlrobot.com/), China [2019-]
-- **Software Engineer** in network for 5G [fronthaul](https://en.wikipedia.org/wiki/Fronthaul) network switcher system, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
+- **Software Engineer** in [network programming](https://en.wikipedia.org/wiki/Computer_network_programming) for 5G [fronthaul](https://en.wikipedia.org/wiki/Fronthaul) network switch, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
 
 </div></details>
 
