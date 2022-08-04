@@ -8,7 +8,7 @@
 
 --------
 
-<details><summary>Contributions</summary><div>
+<details><summary>Contribution</summary><div>
 
 #### ROS based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware)
 
@@ -30,7 +30,7 @@
 
 <details><summary>Education</summary><div>
 
-- **Master's degree** in [Mechatronics Engineering](https://en.wikipedia.org/wiki/Mechatronics), [Central South University](https://cmee.csu.edu.cn/english/), China [2014-2017]
+- **Master's degree** in [Robotics Engineering](https://en.wikipedia.org/wiki/Robotics), [Central South University](https://cmee.csu.edu.cn/english/), China [2014-2017]
 
 </div></details>
 
@@ -45,5 +45,11 @@
 
 - **[Project Management Professional](https://en.wikipedia.org/wiki/Project_Management_Professional) (PMI-PMP)**, [Project Management Institute](https://www.pmi.org/), [2019-]
 - **[System Architect](https://en.wikipedia.org/wiki/Systems_architect)**,  Qualification Certificate of Computer and Software Technology Proficiency, [MIIT](https://www.miiteec.org.cn/), China[2019-]
+
+</div></details>
+
+<details><summary>Publication</summary><div>
+
+- [Design and Implementation of a software platform for interaction between human and remote mobile robots](https://doi.org/10.16526/j.cnki.11-4762/tp.2017.04.034)
 
 </div></details>
