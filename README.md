@@ -10,19 +10,23 @@
 
 <details><summary>Contribution</summary><div>
 
-#### ROS based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware)
+#### [Streaming](https://en.wikipedia.org/wiki/Stream_processing) based [**automotive middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) specifically in Nvidia DriveSDK
+
+- [**nv_driveworks_demo**](https://github.com/ZhenshengLee/nv_driveworks_demo)
+  
+#### [Pubsub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)-[messaging](https://en.wikipedia.org/wiki/Messaging_pattern) based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware) specifically in ROS2
 
 - [**rmw_iceoryx**](https://github.com/ros2/rmw_iceoryx)
 - [**ros2_shm_msgs**](https://github.com/ZhenshengLee/ros2_shm_msgs)
 - [**micro-ROS_freertos_apps**](https://github.com/micro-ROS/freertos_apps)
   
-#### GPU based [**Hardware Acceleration**](https://en.wikipedia.org/wiki/Hardware_acceleration)
+#### GPU based [**Hardware Acceleration**](https://en.wikipedia.org/wiki/Hardware_acceleration) specifically in CUDA
 
 - [**perception_cupoch**](https://github.com/ZhenshengLee/perception_cupoch)
 - [**perception_cuda_pcl**](https://github.com/ZhenshengLee/perception_cuda_pcl)
 - [**cupoch**](https://github.com/neka-nat/cupoch)
 
-#### [**Rust**](https://en.wikipedia.org/wiki/Rust_(programming_language)) programming
+#### [**Rust**](https://en.wikipedia.org/wiki/Rust_(programming_language)) programming specifically with cpp
 
 - [**iceoryx-rust**](https://github.com/ZhenshengLee/iceoryx-rust)
   
