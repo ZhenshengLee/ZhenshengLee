@@ -19,6 +19,7 @@
 - [**rmw_iceoryx**](https://github.com/ros2/rmw_iceoryx)
 - [**ros2_shm_msgs**](https://github.com/ZhenshengLee/ros2_shm_msgs)
 - [**micro-ROS_freertos_apps**](https://github.com/micro-ROS/freertos_apps)
+- [**ros2_mcu**](https://github.com/ZhenshengLee/ros2_mcu)
   
 #### GPU based [**Hardware Acceleration**](https://en.wikipedia.org/wiki/Hardware_acceleration) specifically in CUDA
 
