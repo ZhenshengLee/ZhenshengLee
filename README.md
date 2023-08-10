@@ -6,6 +6,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ZhenshengLee&theme=default&count_private=true&show_icons=false&hide_title=false&include_all_commits=false)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=ZhenshengLee/ros2_shm_msgs,ZhenshengLee/dig-into-ros2,ZhenshengLee/nv_driveworks_demo,ZhenshengLee/perception_cupoch,ZhenshengLee/perception_cuda_pcl,ZhenshengLee/ros2_jetson_benchmarks,ZhenshengLee/performance_test&type=Date)](https://star-history.com/#ZhenshengLee/ros2_shm_msgs&ZhenshengLee/dig-into-ros2&ZhenshengLee/nv_driveworks_demo&ZhenshengLee/perception_cupoch&ZhenshengLee/perception_cuda_pcl&ZhenshengLee/ros2_jetson_benchmarks&ZhenshengLee/performance_test&Date)
+
 --------
 
 <details><summary>Contribution</summary><div>
