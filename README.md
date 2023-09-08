@@ -43,7 +43,7 @@
 
 <details><summary>Experience</summary><div>
 
-- **Software Engineer** in [automotive middleware](https://drivingembeddedexcellence.com/automotive-middleware/) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system) system, [GACRND](https://www.gacrnd.com/), China [2022-]
+- **Software Engineer** in [automotive middleware](https://drivingembeddedexcellence.com/automotive-middleware/) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system) system, [GACRND](), China [2022-]
 - **Software Engineer** in [robotics middleware](https://en.wikipedia.org/wiki/Robotics_middleware) for [LSAV](https://golden.com/wiki/Low-Speed_Autonomy-8AP89VX) system, [BZL Corporation](https://www.bzlrobot.com/), China [2019-2022]
 - **Software Engineer** in [network programming](https://en.wikipedia.org/wiki/Computer_network_programming) for 5G [fronthaul](https://en.wikipedia.org/wiki/Fronthaul) network switch, [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
 
