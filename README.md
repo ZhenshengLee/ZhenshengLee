@@ -2,6 +2,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ZhenshengLee.ZhenshengLee)
 
+Software engineer in [Robotics Middleware](https://en.wikipedia.org/wiki/Robotics_middleware)
+
+wechat: zhensheng_li
+
 --------
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ZhenshengLee&theme=default&count_private=true&show_icons=false&hide_title=false&include_all_commits=false)
