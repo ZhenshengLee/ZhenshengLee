@@ -16,7 +16,7 @@ wechat: zhensheng_li
 
 <details><summary>Contribution</summary><div>
 
-#### [Streaming](https://en.wikipedia.org/wiki/Stream_processing) based [**automotive middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) specifically in Compute Graph Framework (CGF) and System Task Manager (STM) Scheduler from Nvidia DriveWorks SDK
+#### [Streaming](https://en.wikipedia.org/wiki/Stream_processing) based [**automotive middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) specifically in Compute Graph Framework (CGF) and System Task Manager (STM) Scheduler from [Nvidia DriveWorks SDK](https://developer.nvidia.com/drive/driveworks)
 
 - [**nv_dwcgf_demo**](https://github.com/ZhenshengLee/nv_dwcgf_demo)
   
