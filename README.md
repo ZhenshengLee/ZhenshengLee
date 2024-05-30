@@ -19,6 +19,8 @@ wechat: zhensheng_li
 #### [Streaming](https://en.wikipedia.org/wiki/Stream_processing) based [**automotive middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) specifically in Compute Graph Framework (CGF) and System Task Manager (STM) Scheduler from [Nvidia DriveWorks SDK](https://developer.nvidia.com/drive/driveworks)
 
 - [**nv_dwcgf_demo**](https://github.com/ZhenshengLee/nv_dwcgf_demo)
+- [**nv_driveworks**](https://github.com/ZhenshengLee/nv_driveworks)
+- [**nv_driveos**](https://github.com/ZhenshengLee/nv_driveos)
   
 #### [Pubsub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)-[messaging](https://en.wikipedia.org/wiki/Messaging_pattern) based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware) specifically in rclcpp, rcl and rmw from OSRF ROS2
 
