@@ -14,23 +14,19 @@ wechat: zhensheng_li
 
 --------
 
-<details><summary>Contribution</summary><div>
+<details><summary>Contribution(Application Layer)</summary><div>
 
-#### [GlobalDeterministicSchedule](https://edms.etas.com/explanations/scheduling_mechanisms.html)-[MessagePassing](https://en.wikipedia.org/wiki/Message-oriented_middleware) based [**Automotive Middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) specifically in Compute Graph Framework (CGF) and System Task Manager (STM) Scheduler from [Nvidia DriveWorks SDK](https://developer.nvidia.com/drive/driveworks)
+#### Performance Improvement specifically in [MessagePassing](https://en.wikipedia.org/wiki/Message-oriented_middleware)
 
-- [**nv_driveworks_demo**](https://github.com/ZhenshengLee/nv_driveworks_demo)
-- [**nv_driveworks**](https://github.com/ZhenshengLee/nv_driveworks)
-- [**nv_driveos**](https://github.com/ZhenshengLee/nv_driveos)
-  
-#### [PubSub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)-[MessagePassing](https://en.wikipedia.org/wiki/Message-oriented_middleware) based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware) specifically in rclcpp, rcl and rmw from OSRF ROS2
-
-- [**dig-into-ros2**](https://github.com/ZhenshengLee/dig-into-ros2)
-- [**rmw_iceoryx**](https://github.com/ros2/rmw_iceoryx)
 - [**ros2_shm_msgs**](https://github.com/ZhenshengLee/ros2_shm_msgs)
 - [**message_filters**](https://github.com/ros2/message_filters)
-- [**micro-ROS_freertos_apps**](https://github.com/micro-ROS/freertos_apps)
-- [**ros2_mcu**](https://github.com/ZhenshengLee/ros2_mcu)
-  
+- [**performance_test**](https://github.com/ZhenshengLee/performance_test)
+- [**ros2_jetson_benchmarks**](https://github.com/ZhenshengLee/ros2_jetson_benchmarks)
+
+#### Development Infrastructure specifically in [Bazel](https://en.wikipedia.org/wiki/Bazel_(software))
+
+- [**apollo-lite**](https://github.com/wheelos/apollo-lite)
+
 #### GPU based [**Hardware Acceleration**](https://en.wikipedia.org/wiki/Hardware_acceleration) specifically in CUDA
 
 - [**perception_cupoch**](https://github.com/ZhenshengLee/perception_cupoch)
@@ -40,7 +36,28 @@ wechat: zhensheng_li
 #### [**Rust**](https://en.wikipedia.org/wiki/Rust_(programming_language)) programming specifically with cpp
 
 - [**iceoryx-rust**](https://github.com/ZhenshengLee/iceoryx-rust)
-  
+
+</div></details>
+
+<details><summary>Contribution(Middleware Layer)</summary><div>
+
+#### SelfDeveloped [**Automotive Middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system) system
+
+- todo
+
+#### [GlobalDeterministicSchedule](https://edms.etas.com/explanations/scheduling_mechanisms.html)-[MessagePassing](https://en.wikipedia.org/wiki/Message-oriented_middleware) based [**Automotive Middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) specifically in Compute Graph Framework (CGF) and System Task Manager (STM) Scheduler from [Nvidia DriveWorks SDK](https://developer.nvidia.com/drive/driveworks)
+
+- [**nv_driveworks_demo**](https://github.com/ZhenshengLee/nv_driveworks_demo)
+- [**nv_driveworks**](https://github.com/ZhenshengLee/nv_driveworks)
+- [**nv_driveos**](https://github.com/ZhenshengLee/nv_driveos)
+
+#### [PubSub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)-[MessagePassing](https://en.wikipedia.org/wiki/Message-oriented_middleware) based [**Robotics Middleware**](https://en.wikipedia.org/wiki/Robotics_middleware) specifically in rclcpp, rcl and rmw from OSRF ROS2
+
+- [**dig-into-ros2**](https://github.com/ZhenshengLee/dig-into-ros2)
+- [**rmw_iceoryx**](https://github.com/ros2/rmw_iceoryx)
+- [**micro-ROS_freertos_apps**](https://github.com/micro-ROS/freertos_apps)
+- [**ros2_mcu**](https://github.com/ZhenshengLee/ros2_mcu)
+
 </div></details>
 
 <details><summary>Education</summary><div>
