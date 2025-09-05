@@ -43,7 +43,7 @@ wechat: zhensheng_li
 
 #### SelfDeveloped [**Automotive Middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system) system
 
-- todo
+- covered
 
 #### [GlobalDeterministicSchedule](https://edms.etas.com/explanations/scheduling_mechanisms.html)-[MessagePassing](https://en.wikipedia.org/wiki/Message-oriented_middleware) based [**Automotive Middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) specifically in Compute Graph Framework (CGF) and System Task Manager (STM) Scheduler from [Nvidia DriveWorks SDK](https://developer.nvidia.com/drive/driveworks)
 
@@ -68,7 +68,8 @@ wechat: zhensheng_li
 
 <details><summary>Experience</summary><div>
 
-- **Software Engineer** in [automotive middleware](https://drivingembeddedexcellence.com/automotive-middleware/) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system) system, [GACRND](), China [2022-]
+- **Software Engineer** in [ADAS Mapping System](https://en.wikipedia.org/wiki/Robotic_mapping) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system)-[LPNP](https://www.youtube.com/watch?v=nZNTLsGzLww) system, [GACRND](), China [2025-]
+- **Software Engineer** in [automotive middleware](https://drivingembeddedexcellence.com/automotive-middleware/) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system) system, [GACRND](), China [2022-2025]
 - **Software Engineer** in [robotics middleware](https://en.wikipedia.org/wiki/Robotics_middleware) for [LSAV](https://golden.com/wiki/Low-Speed_Autonomy-8AP89VX) system, [BZL Corporation](https://www.bzlrobot.com/), China [2019-2022]
 - **Software Engineer** in [application server middleware](http://wwwlgis.informatik.uni-kl.de/cms/fileadmin/courses/ws1516/middleware/Chapter_5_Application_Server_Middleware.pdf) for 5G [fronthaul](https://en.wikipedia.org/wiki/Fronthaul) [network switch](https://en.wikipedia.org/wiki/Network_switch), [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
 
