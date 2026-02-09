@@ -43,7 +43,7 @@ wechat: zhensheng_li
 
 #### SelfDeveloped [**Automotive Middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system) system
 
-- covered
+- █████████████
 
 #### [GlobalDeterministicSchedule](https://edms.etas.com/explanations/scheduling_mechanisms.html)-[MessagePassing](https://en.wikipedia.org/wiki/Message-oriented_middleware) based [**Automotive Middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) specifically in Compute Graph Framework (CGF) and System Task Manager (STM) Scheduler from [Nvidia DriveWorks SDK](https://developer.nvidia.com/drive/driveworks)
 
