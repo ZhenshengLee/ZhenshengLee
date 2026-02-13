@@ -47,7 +47,7 @@ wechat: zhensheng_li
 
 #### [GlobalDeterministicSchedule](https://edms.etas.com/explanations/scheduling_mechanisms.html)-[MessagePassing](https://en.wikipedia.org/wiki/Message-oriented_middleware) based [**Automotive Middleware**](https://drivingembeddedexcellence.com/automotive-middleware/) specifically in Compute Graph Framework (CGF) and System Task Manager (STM) Scheduler from [Nvidia DriveWorks SDK](https://developer.nvidia.com/drive/driveworks)
 
-- [**nv_driveworks_demo**](https://github.com/ZhenshengLee/nv_driveworks_demo)
+- [**nv_driveworks_demo**](https://github.com/meghdeepj/nv_driveworks_demo)
 - [**nv_driveworks**](https://github.com/ZhenshengLee/nv_driveworks)
 - [**nv_driveos**](https://github.com/ZhenshengLee/nv_driveos)
 
