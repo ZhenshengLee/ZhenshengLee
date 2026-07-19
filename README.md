@@ -18,6 +18,7 @@ wechat: zhensheng_li
 
 #### Performance Improvement specifically in [MessagePassing](https://en.wikipedia.org/wiki/Message-oriented_middleware)
 
+- [**protoros2**](https://github.com/ZhenshengLee/protoros2)
 - [**ros2_shm_msgs**](https://github.com/ZhenshengLee/ros2_shm_msgs)
 - [**message_filters**](https://github.com/ros2/message_filters)
 - [**performance_test**](https://github.com/ZhenshengLee/performance_test)
@@ -55,6 +56,8 @@ wechat: zhensheng_li
 
 - [**dig-into-ros2**](https://github.com/ZhenshengLee/dig-into-ros2)
 - [**rmw_iceoryx**](https://github.com/ros2/rmw_iceoryx)
+- [**rosidl_typesupport_protobuf**](https://github.com/eclipse-ecal/rosidl_typesupport_protobuf)
+- [**rmw_ecal**](https://github.com/eclipse-ecal/rmw_ecal)
 - [**micro-ROS_freertos_apps**](https://github.com/micro-ROS/freertos_apps)
 - [**ros2_mcu**](https://github.com/ZhenshengLee/ros2_mcu)
 
@@ -68,7 +71,7 @@ wechat: zhensheng_li
 
 <details><summary>Experience</summary><div>
 
-- **Software Engineer** in [ADAS Mapping System](https://en.wikipedia.org/wiki/Robotic_mapping) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system)-[LPNP](https://www.youtube.com/watch?v=nZNTLsGzLww) system, [GACRND](), China [2025-]
+- **Software Engineer** in [Navigation Map System](https://www.here.com/platform/adas-had) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system)-[LPNP](https://www.youtube.com/watch?v=nZNTLsGzLww) system, [GACRND](), China [2025-]
 - **Software Engineer** in [automotive middleware](https://drivingembeddedexcellence.com/automotive-middleware/) for [ADAS](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system) system, [GACRND](), China [2022-2025]
 - **Software Engineer** in [robotics middleware](https://en.wikipedia.org/wiki/Robotics_middleware) for [LSAV](https://golden.com/wiki/Low-Speed_Autonomy-8AP89VX) system, [BZL Corporation](https://www.bzlrobot.com/), China [2019-2022]
 - **Software Engineer** in [application server middleware](http://wwwlgis.informatik.uni-kl.de/cms/fileadmin/courses/ws1516/middleware/Chapter_5_Application_Server_Middleware.pdf) for 5G [fronthaul](https://en.wikipedia.org/wiki/Fronthaul) [network switch](https://en.wikipedia.org/wiki/Network_switch), [ZTE Corporation](https://www.zte.com.cn/global/), China [2017-2019]
